@@ -97,4 +97,4 @@ Focusing on location performance, we narrowed down to the top 10 locations based
 Analyzing business activity across seasonal periods, we found that during spring, the highest number of orders were placed, totaling 1000, accounting for 26% of the total. Fall and winter followed closely with 25% each, while summer witnessed relatively fewer orders, totaling 955, constituting 24% of the total. This suggests that marketing strategies should be tailored towards the spring season.
 
 ## Dashboard
-![]()
+! [] (dashboard.jpg)
