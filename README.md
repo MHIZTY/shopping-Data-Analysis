@@ -78,7 +78,7 @@ Descriptive Analysis:
 **Finding 1:**
 In our analysis, we conducted descriptive analysis to gain insights into various aspects of the dataset, including total revenue, average revenue per item, quantity of items ordered, total number of customers, average customer age, as well as the minimum and maximum purchased items. 
 
-During the first quarter, the total revenue amounted to $233,132.00, with an average revenue of $59.76 per order. This suggests that, on average, each successful order contributes $59.76 to the revenue stream. Furthermore, a total of 3901 customers placed orders during this period. By dividing the total revenue by the total number of customers, we arrived at the average revenue per customer order.
+During the first quarter, the total revenue amounted to $233,633.00, with an average revenue of $59.76 per order. This suggests that, on average, each successful order contributes $59.76 to the revenue stream. Furthermore, a total of 3901 customers placed orders during this period. By dividing the total revenue by the total number of customers, we arrived at the average revenue per customer order.
 
 Upon closer examination, the maximum item purchase cost was $100, categorized into product ("coat"), category ("outerwear"), color ("Beige"), and season ("spring"). Conversely, the minimum purchased item cost was $20, identified as product ("sneakers"), category ("footwear"), color ("white"), and season ("summer"). 
 
